@@ -1,0 +1,23 @@
+{
+    "name": "gh-page",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "tailwind": "npx tailwindcss -i main.css -o ./resources/main.css --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kepchewk/kepchewk.github.io.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kepchewk/kepchewk.github.io/issues"
+    },
+    "homepage": "https://github.com/kepchewk/kepchewk.github.io#readme",
+    "devDependencies": {
+        "tailwindcss": "^3.0.23"
+    }
+}
